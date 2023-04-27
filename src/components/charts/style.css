@@ -1,0 +1,9 @@
+text.recharts-text.recharts-cartesian-axis-tick-value {
+  font-size: 8px;
+  color: #fff;
+  margin-top: 0.5rem;
+}
+
+circle.recharts-dot.recharts-line-dot {
+  display: none;
+}
